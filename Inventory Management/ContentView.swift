@@ -19,7 +19,7 @@ struct ContentView: View {
                                     case .explore:
                                         HomePage()
                                     case .create:
-                                        HomePage()
+                                        CreatePage()
                                     case .notifications:
                                         HomePage()
                                     case .profile:
